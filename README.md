@@ -53,3 +53,4 @@
 - [Getting Started With Jest](https://www.valentinog.com/blog/jest/) 
 - [Testing JavaScript with Jest](https://flaviocopes.com/jest/)
 
+[![Maintainability](https://api.codeclimate.com/v1/badges/6e637db9a14fa2d1fafe/maintainability)](https://codeclimate.com/github/BC-MAY-21-RN/kata-02-el-juego-de-boliche-k2-m22-t3-reactive-03/maintainability)
